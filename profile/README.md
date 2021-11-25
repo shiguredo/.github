@@ -4,7 +4,13 @@
 
 ---
 
+## 商用製品
+
 [WebRTC SFU Sora](https://sora.shiguredo.jp/) - 多くの企業に利用されている商用 WebRTC SFU パッケージ
+
+## コミュニティ
+
+https://discord.gg/shiguredo
 
 ## スポンサー
 
