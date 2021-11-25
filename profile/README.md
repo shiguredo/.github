@@ -14,8 +14,6 @@ https://discord.gg/shiguredo
 
 ## スポンサー
 
-**時雨堂は以下の組織や開発者のスポンサーです**
-
 - [Let's Encrypt](https://letsencrypt.org/sponsors/)
 - [OpenSSL](https://www.openssl.org/support/acks.html)
 - [Erlang Ecosystem Foundation](https://erlef.org/sponsors)
