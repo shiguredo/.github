@@ -4,15 +4,15 @@
 
 ---
 
-## 商用製品
+## 時雨堂の商用製品
 
 [WebRTC SFU Sora](https://sora.shiguredo.jp/)
 
-## コミュニティ
+## 時雨堂のコミュニティ
 
 https://discord.gg/shiguredo
 
-## スポンサー
+## 時雨堂がスポンサーになっている組織や開発者
 
 - [Let's Encrypt](https://letsencrypt.org/sponsors/)
 - [OpenSSL](https://www.openssl.org/support/acks.html)
