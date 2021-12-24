@@ -32,4 +32,3 @@ https://discord.gg/shiguredo
 - [Ulf Wiger](https://github.com/uwiger)
     - https://github.com/uwiger/gproc
 - [Kenji Urushima](https://github.com/kjur)
-    - https://github.com/kjur/jsrsasign
