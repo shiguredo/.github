@@ -17,9 +17,19 @@ https://discord.gg/shiguredo
 - [Let's Encrypt](https://letsencrypt.org/sponsors/)
 - [OpenSSL](https://www.openssl.org/support/acks.html)
 - [Erlang Ecosystem Foundation](https://erlef.org/sponsors)
-- [Sphinx 開発者 Takeshi KOMIYA](https://github.com/tk0miya)
-- [Cowboy/Gun 開発者 Loïc Hoguin](https://github.com/essen)
-- [AsmJit/Blend2D 開発者 Petr Kobalicek](https://github.com/kobalicek)
-- [sqlc 開発者 Kyle Conroy](https://github.com/kyleconroy)
-- [gproc 開発者　　Ulf Wiger](https://github.com/uwiger)
-- [jsrsasign 開発者 Kenji Urushima](https://github.com/kjur)
+- [Takeshi KOMIYA](https://github.com/tk0miya)
+    - https://github.com/sphinx-doc/sphinx
+    - https://github.com/blockdiag/seqdiag
+- [Loïc Hoguin](https://github.com/essen)
+    - https://github.com/ninenines/cowboy
+    - https://github.com/ninenines/ranch
+    - https://github.com/ninenines/gun
+- [Petr Kobalicek](https://github.com/kobalicek)
+    - https://github.com/asmjit/asmjit
+    - https://github.com/blend2d/blend2d
+- [Kyle Conroy](https://github.com/kyleconroy)
+    - https://github.com/kyleconroy/sqlc
+- [Ulf Wiger](https://github.com/uwiger)
+    - https://github.com/uwiger/gproc
+- [Kenji Urushima](https://github.com/kjur)
+    - https://github.com/kjur/jsrsasign
