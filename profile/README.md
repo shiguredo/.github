@@ -14,8 +14,10 @@ https://discord.gg/shiguredo
 
 ## 時雨堂がスポンサーになっている組織や開発者
 
-- [Let's Encrypt](https://letsencrypt.org/sponsors/)
-- [OpenSSL](https://www.openssl.org/support/acks.html)
+- [Let's Encrypt](https://letsencrypt.org/)
+    - https://letsencrypt.org/sponsors/
+- [OpenSSL](https://www.openssl.org/)
+    - https://www.openssl.org/support/acks.html
 - [Erlang Ecosystem Foundation](https://erlef.org/sponsors)
 - [Takeshi KOMIYA](https://github.com/tk0miya)
     - https://github.com/sphinx-doc/sphinx
