@@ -34,4 +34,3 @@ https://discord.gg/shiguredo
     - https://github.com/kyleconroy/sqlc
 - [Ulf Wiger](https://github.com/uwiger)
     - https://github.com/uwiger/gproc
-- [Kenji Urushima](https://github.com/kjur)
