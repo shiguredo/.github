@@ -34,3 +34,6 @@ https://discord.gg/shiguredo
     - https://github.com/kyleconroy/sqlc
 - [Ulf Wiger](https://github.com/uwiger)
     - https://github.com/uwiger/gproc
+- [LabStack LLC](https://github.com/labstack)
+    - https://github.com/labstack/echo
+    - https://github.com/labstack/echo-contrib
