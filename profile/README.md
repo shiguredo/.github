@@ -37,3 +37,5 @@ https://discord.gg/shiguredo
 - [LabStack LLC](https://github.com/labstack)
     - https://github.com/labstack/echo
     - https://github.com/labstack/echo-contrib
+- [Jakub Roztocil](https://github.com/jakubroztocil)
+    - https://github.com/httpie/httpie
