@@ -39,3 +39,7 @@ https://discord.gg/shiguredo
     - https://github.com/labstack/echo-contrib
 - [Jakub Roztocil](https://github.com/jakubroztocil)
     - https://github.com/httpie/httpie
+- [Minoru Osuka](https://github.com/mosuka)
+    - https://github.com/lindera-morphology/lindera
+- [Takahiro Minami](https://github.com/miiton)
+    - https://github.com/miiton/Cica
