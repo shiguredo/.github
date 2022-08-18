@@ -6,7 +6,8 @@
 
 ## 時雨堂の商用製品
 
-[WebRTC SFU Sora](https://sora.shiguredo.jp/)
+- [WebRTC SFU Sora](https://sora.shiguredo.jp/)
+- [Sora as a Service Tobi](https://tobi.shiguredo.jp/)
 
 ## 時雨堂のコミュニティ
 
