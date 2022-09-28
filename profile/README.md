@@ -21,7 +21,7 @@ https://discord.gg/shiguredo
     - https://www.openssl.org/support/acks.html
 - [Erlang Ecosystem Foundation](https://erlef.org/)
     - https://erlef.org/sponsors
-- [⚡ Zig Programming Language](https://ziglang.org/)
+- [Zig Programming Language](https://ziglang.org/)
     - https://ziglang.org/zsf/    
 - [Takeshi KOMIYA](https://github.com/tk0miya)
     - https://github.com/sphinx-doc/sphinx
