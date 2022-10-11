@@ -19,8 +19,6 @@ https://discord.gg/shiguredo
     - https://letsencrypt.org/sponsors/
 - [OpenSSL](https://www.openssl.org/)
     - https://www.openssl.org/support/acks.html
-- [Erlang Ecosystem Foundation](https://erlef.org/)
-    - https://erlef.org/sponsors
 - [Zig Programming Language](https://ziglang.org/)
     - https://ziglang.org/zsf/    
 - [Takeshi KOMIYA](https://github.com/tk0miya)
