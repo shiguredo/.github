@@ -4,14 +4,14 @@
 
 ---
 
+- コミュニティ - https://discord.gg/shiguredo
+- ブログ - https://medium.com/shiguredo
+- Zenn - https://zenn.dev/p/shiguredo
+
 ## 時雨堂の商用製品
 
 - [WebRTC SFU Sora](https://sora.shiguredo.jp/)
 - [Sora Cloud](https://sora-cloud.shiguredo.jp/)
-
-## 時雨堂のコミュニティ
-
-https://discord.gg/shiguredo
 
 ## 時雨堂がスポンサーになっている組織や開発者
 
