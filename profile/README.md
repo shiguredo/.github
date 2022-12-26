@@ -13,7 +13,7 @@
 - [WebRTC SFU Sora](https://sora.shiguredo.jp/)
 - [Sora Cloud](https://sora-cloud.shiguredo.jp/)
 
-## 時雨堂がスポンサーになっている組織や開発者
+## 時雨堂が継続的スポンサーになっている組織や開発者
 
 - [Let's Encrypt](https://letsencrypt.org/)
     - https://letsencrypt.org/sponsors/
