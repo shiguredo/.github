@@ -23,7 +23,6 @@
     - https://ziglang.org/zsf/    
 - [Takeshi KOMIYA](https://github.com/tk0miya)
     - https://github.com/sphinx-doc/sphinx
-    - https://github.com/blockdiag/seqdiag
 - [Loïc Hoguin](https://github.com/essen)
     - https://github.com/ninenines/cowboy
     - https://github.com/ninenines/ranch
