@@ -43,3 +43,5 @@
     - https://github.com/lindera-morphology/lindera
 - [Takahiro Minami](https://github.com/miiton)
     - https://github.com/miiton/Cica
+- [Nicolas DUBIEN](https://github.com/dubzzz)
+    - https://github.com/dubzzz/fast-check
