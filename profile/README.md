@@ -20,12 +20,13 @@
 - [OpenSSL](https://www.openssl.org/)
     - https://www.openssl.org/support/acks.html
 - [Zig Programming Language](https://ziglang.org/)
-    - https://ziglang.org/zsf/    
+    - https://ziglang.org/zsf/
 - [Takeshi KOMIYA](https://github.com/tk0miya)
     - https://github.com/sphinx-doc/sphinx
 - [Loïc Hoguin](https://github.com/essen)
-    - https://github.com/ninenines/cowboy
     - https://github.com/ninenines/ranch
+    - https://github.com/ninenines/cowlib
+    - https://github.com/ninenines/cowboy
     - https://github.com/ninenines/gun
 - [Petr Kobalicek](https://github.com/kobalicek)
     - https://github.com/asmjit/asmjit
@@ -41,7 +42,9 @@
     - https://github.com/httpie/httpie
 - [Minoru Osuka](https://github.com/mosuka)
     - https://github.com/lindera-morphology/lindera
+    - https://github.com/meilisearch/meilisearch
 - [Takahiro Minami](https://github.com/miiton)
     - https://github.com/miiton/Cica
+    - https://github.com/meilisearch/meilisearch
 - [Nicolas DUBIEN](https://github.com/dubzzz)
     - https://github.com/dubzzz/fast-check
