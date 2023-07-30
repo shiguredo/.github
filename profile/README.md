@@ -19,10 +19,6 @@
     - https://letsencrypt.org/sponsors/
 - [OpenSSL](https://www.openssl.org/)
     - https://www.openssl.org/support/acks.html
-- [Zig Programming Language](https://ziglang.org/)
-    - https://ziglang.org/zsf/
-- [Takeshi KOMIYA](https://github.com/tk0miya)
-    - https://github.com/sphinx-doc/sphinx
 - [Loïc Hoguin](https://github.com/essen)
     - https://github.com/ninenines/ranch
     - https://github.com/ninenines/cowlib
@@ -32,7 +28,7 @@
     - https://github.com/asmjit/asmjit
     - https://github.com/blend2d/blend2d
 - [Kyle Conroy](https://github.com/kyleconroy)
-    - https://github.com/kyleconroy/sqlc
+    - https://github.com/sqlc-dev/sqlc
 - [Ulf Wiger](https://github.com/uwiger)
     - https://github.com/uwiger/gproc
 - [LabStack LLC](https://github.com/labstack)
@@ -48,3 +44,6 @@
     - https://github.com/meilisearch/meilisearch
 - [Nicolas DUBIEN](https://github.com/dubzzz)
     - https://github.com/dubzzz/fast-check
+- [Nao Yonashiro](https://github.com/orisano)
+    - https://github.com/orisano/sqlc-gen-ts-d1
+    - https://github.com/sqlc-dev/sqlc
