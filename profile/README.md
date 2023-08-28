@@ -47,3 +47,6 @@
 - [Nao Yonashiro](https://github.com/orisano)
     - https://github.com/orisano/sqlc-gen-ts-d1
     - https://github.com/sqlc-dev/sqlc
+- [Adam Turner](https://github.com/AA-Turner)
+    - https://github.com/sphinx-doc/sphinx
+    - https://github.com/docutils/docutils
