@@ -35,7 +35,7 @@
     - https://github.com/labstack/echo
     - https://github.com/labstack/echo-contrib
 - [Jakub Roztocil](https://github.com/jkbrzt)
-    - https://github.com/httpie/httpie
+    - https://github.com/httpie/cli
 - [Minoru Osuka](https://github.com/mosuka)
     - https://github.com/lindera-morphology/lindera
     - https://github.com/meilisearch/meilisearch
