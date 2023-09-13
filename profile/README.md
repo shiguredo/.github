@@ -50,3 +50,6 @@
 - [Adam Turner](https://github.com/AA-Turner)
     - https://github.com/sphinx-doc/sphinx
     - https://github.com/docutils/docutils
+- [Paul-Louis Ageneau](https://github.com/paullouisageneau)
+    - https://github.com/paullouisageneau/libdatachannel
+    - https://github.com/paullouisageneau/libjuice
