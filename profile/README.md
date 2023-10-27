@@ -7,6 +7,7 @@
 - コミュニティ - https://discord.gg/shiguredo
 - ブログ - https://medium.com/shiguredo
 - Zenn - https://zenn.dev/p/shiguredo
+- Open Collective - https://opencollective.com/shiguredo
 
 ## 時雨堂の商用製品
 
@@ -14,8 +15,6 @@
 - [Sora Cloud](https://sora-cloud.shiguredo.jp/)
 
 ## 時雨堂が継続的スポンサーになっている組織や開発者
-
-[Open Collective](https://opencollective.com/shiguredo)
 
 - [Let's Encrypt](https://letsencrypt.org/)
     - https://letsencrypt.org/sponsors/
