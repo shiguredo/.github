@@ -15,6 +15,8 @@
 
 ## 時雨堂が継続的スポンサーになっている組織や開発者
 
+[Open Collective](https://opencollective.com/shiguredo)
+
 - [Let's Encrypt](https://letsencrypt.org/)
     - https://letsencrypt.org/sponsors/
 - [OpenSSL](https://www.openssl.org/)
@@ -53,3 +55,4 @@
 - [Paul-Louis Ageneau](https://github.com/paullouisageneau)
     - https://github.com/paullouisageneau/libdatachannel
     - https://github.com/paullouisageneau/libjuice
+- [cpprefjp](https://cpprefjp.github.io/)
