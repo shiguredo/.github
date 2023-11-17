@@ -43,8 +43,6 @@
 - [Takahiro Minami](https://github.com/miiton)
     - https://github.com/miiton/Cica
     - https://github.com/meilisearch/meilisearch
-- [Nicolas DUBIEN](https://github.com/dubzzz)
-    - https://github.com/dubzzz/fast-check
 - [Nao Yonashiro](https://github.com/orisano)
     - https://github.com/orisano/sqlc-gen-ts-d1
     - https://github.com/sqlc-dev/sqlc
@@ -55,3 +53,6 @@
     - https://github.com/paullouisageneau/libdatachannel
     - https://github.com/paullouisageneau/libjuice
 - [cpprefjp](https://cpprefjp.github.io/)
+- [Biome](https://github.com/biomejs)
+    - https://github.com/biomejs/biome
+    - https://github.com/biomejs/biome-vscode    
