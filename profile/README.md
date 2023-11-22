@@ -9,7 +9,7 @@
 - Zenn - https://zenn.dev/p/shiguredo
 - Open Collective - https://opencollective.com/shiguredo
 - オフィシャルロゴ - https://shiguredo.jp/official_shiguredo_logo.svg
-  - https://creativecommons.org/licenses/by-nc-nd/4.0/
+  - [CC BY-NC-ND 4.0 DEED](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## 時雨堂の商用製品
 
