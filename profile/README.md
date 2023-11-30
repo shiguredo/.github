@@ -4,6 +4,7 @@
 
 ---
 
+- ウェブサイト - https://shiguredo.jp/
 - コミュニティ - https://discord.gg/shiguredo
 - ブログ - https://medium.com/shiguredo
 - Zenn - https://zenn.dev/p/shiguredo
