@@ -65,4 +65,4 @@
     - https://github.com/biomejs/biome
     - https://github.com/biomejs/biome-vscode
 - [Tsuyoshi Hombashi](https://github.com/thombashi)
-  　　　　- https://github.com/thombashi/tcconfig
+    - https://github.com/thombashi/tcconfig
