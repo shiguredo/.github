@@ -63,4 +63,6 @@
 - [cpprefjp](https://cpprefjp.github.io/)
 - [Biome](https://github.com/biomejs)
     - https://github.com/biomejs/biome
-    - https://github.com/biomejs/biome-vscode    
+    - https://github.com/biomejs/biome-vscode
+- [Tsuyoshi Hombashi](https://github.com/thombashi)
+  　　　　- https://github.com/thombashi/tcconfig
