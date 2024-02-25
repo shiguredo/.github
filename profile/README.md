@@ -66,5 +66,3 @@
     - https://github.com/biomejs/biome-vscode
 - [Tsuyoshi Hombashi](https://github.com/thombashi)
     - https://github.com/thombashi/tcconfig
-- [Ratatui](https://github.com/ratatui-org)
-    - https://github.com/ratatui-org/ratatui
