@@ -46,9 +46,6 @@
 - [Minoru Osuka](https://github.com/mosuka)
     - https://github.com/lindera-morphology/lindera
     - https://github.com/meilisearch/meilisearch
-- [Takahiro Minami](https://github.com/miiton)
-    - https://github.com/miiton/Cica
-    - https://github.com/meilisearch/meilisearch
 - [Nao Yonashiro](https://github.com/orisano)
     - https://github.com/orisano/sqlc-gen-ts-d1
     - https://github.com/sqlc-dev/sqlc
