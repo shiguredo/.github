@@ -42,7 +42,6 @@
     - https://github.com/lindera-morphology/lindera
     - https://github.com/meilisearch/meilisearch
 - [Nao Yonashiro](https://github.com/orisano)
-    - https://github.com/orisano/sqlc-gen-ts-d1
     - https://github.com/sqlc-dev/sqlc
 - [Paul-Louis Ageneau](https://github.com/paullouisageneau)
     - https://github.com/paullouisageneau/libdatachannel
