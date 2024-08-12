@@ -27,7 +27,7 @@
 - [Let's Encrypt](https://letsencrypt.org/)
     - https://letsencrypt.org/sponsors/
 - [OpenSSL](https://www.openssl.org/)
-    - https://www.openssl.org/support/acks.html
+    - https://openssl-library.org/about/sponsors/index.html
 - [Loïc Hoguin](https://github.com/essen)
     - https://github.com/ninenines/ranch
     - https://github.com/ninenines/cowlib
