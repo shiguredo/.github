@@ -26,7 +26,7 @@
 
 - [Let's Encrypt](https://letsencrypt.org/)
     - https://letsencrypt.org/sponsors/
-- [OpenSSL](https://www.openssl.org/)
+- [OpenSSL](https://openssl-library.org/)
     - https://openssl-library.org/about/sponsors/index.html
 - [Loïc Hoguin](https://github.com/essen)
     - https://github.com/ninenines/ranch
