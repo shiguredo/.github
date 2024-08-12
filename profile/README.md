@@ -39,7 +39,7 @@
 - [Ulf Wiger](https://github.com/uwiger)
     - https://github.com/uwiger/gproc
 - [Minoru Osuka](https://github.com/mosuka)
-    - https://github.com/lindera-morphology/lindera
+    - https://github.com/lindera/lindera
     - https://github.com/meilisearch/meilisearch
 - [Nao Yonashiro](https://github.com/orisano)
     - https://github.com/sqlc-dev/sqlc
