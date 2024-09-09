@@ -47,6 +47,3 @@
     - https://github.com/paullouisageneau/libdatachannel
     - https://github.com/paullouisageneau/libjuice
 - [cpprefjp](https://cpprefjp.github.io/)
-- [Biome](https://github.com/biomejs)
-    - https://github.com/biomejs/biome
-    - https://github.com/biomejs/biome-vscode
