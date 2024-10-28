@@ -46,4 +46,3 @@
 - [Paul-Louis Ageneau](https://github.com/paullouisageneau)
     - https://github.com/paullouisageneau/libdatachannel
     - https://github.com/paullouisageneau/libjuice
-- [cpprefjp](https://cpprefjp.github.io/)
