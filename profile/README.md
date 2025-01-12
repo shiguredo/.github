@@ -41,8 +41,6 @@
 - [Minoru Osuka](https://github.com/mosuka)
     - https://github.com/lindera/lindera
     - https://github.com/meilisearch/meilisearch
-- [Nao Yonashiro](https://github.com/orisano)
-    - https://github.com/sqlc-dev/sqlc
 - [Paul-Louis Ageneau](https://github.com/paullouisageneau)
     - https://github.com/paullouisageneau/libdatachannel
     - https://github.com/paullouisageneau/libjuice
