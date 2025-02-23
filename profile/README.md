@@ -38,9 +38,3 @@
     - https://github.com/blend2d/blend2d
 - [Ulf Wiger](https://github.com/uwiger)
     - https://github.com/uwiger/gproc
-- [Minoru Osuka](https://github.com/mosuka)
-    - https://github.com/lindera/lindera
-    - https://github.com/meilisearch/meilisearch
-- [Paul-Louis Ageneau](https://github.com/paullouisageneau)
-    - https://github.com/paullouisageneau/libdatachannel
-    - https://github.com/paullouisageneau/libjuice
