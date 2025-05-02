@@ -6,7 +6,7 @@
 
 - ウェブサイト - https://shiguredo.jp/
 - コミュニティ - https://discord.gg/shiguredo
-- ブログ - https://medium.com/shiguredo
+- ブログ - https://blog.shiguredo.jp/
 - Zenn - https://zenn.dev/p/shiguredo
 - Open Collective - https://opencollective.com/shiguredo
 
