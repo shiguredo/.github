@@ -4,7 +4,7 @@
 
 時雨堂は日本で WebRTC を利用したリアルタイムコミュニケーション技術に特化したとする企業です。
 主力製品の [WebRTC SFU Sora](https://sora.shiguredo.jp) は [Erlang/OTP](https://erlang.org/) で開発されています。
-[Raft]([https://raft.github.io/](https://raft.github.io/raft.pdf)) や [Plumtree (Epidemic Broadcast Trees)](https://www.dpss.inesc-id.pt/~ler/reports/srds07.pdf) を利用した分散システムです。
+[Raft](https://raft.github.io/raft.pdf) や [Plumtree (Epidemic Broadcast Trees)](https://www.dpss.inesc-id.pt/~ler/reports/srds07.pdf) を利用した分散システムです。
 
 ---
 
