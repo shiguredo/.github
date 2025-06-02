@@ -44,3 +44,5 @@ Sora は [Raft](https://raft.github.io/raft.pdf) や [Plumtree](https://www.dpss
     - https://github.com/uwiger/gproc
 - [Peter Saveliev](https://github.com/svinota)
     - https://github.com/svinota/pyroute2
+- [Erik Stenman](https://github.com/sponsors/HappiHacking)
+    - https://github.com/happi/theBeamBook
