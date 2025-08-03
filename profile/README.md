@@ -30,8 +30,6 @@ Sora は [Raft](https://raft.github.io/raft.pdf) や [Plumtree](https://www.dpss
 
 - [Let's Encrypt](https://letsencrypt.org/)
     - https://letsencrypt.org/sponsors/
-- [OpenSSL](https://openssl-library.org/)
-    - https://openssl-library.org/about/sponsors/index.html
 - [Loïc Hoguin](https://github.com/essen)
     - https://github.com/ninenines/ranch
     - https://github.com/ninenines/cowlib
