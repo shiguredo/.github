@@ -11,7 +11,6 @@ Sora は [Raft](https://raft.github.io/raft.pdf) や [Plumtree](https://www.dpss
 - ウェブサイト - https://shiguredo.jp/
 - コミュニティ - https://discord.gg/shiguredo
 - ブログ - https://blog.shiguredo.jp/
-- Zenn - https://zenn.dev/p/shiguredo
 - Open Collective - https://opencollective.com/shiguredo
 
 ## 公式ロゴ
