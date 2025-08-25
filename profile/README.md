@@ -29,6 +29,10 @@ Sora は [Raft](https://raft.github.io/raft.pdf) や [Plumtree](https://www.dpss
 
 - [Let's Encrypt](https://letsencrypt.org/)
     - https://letsencrypt.org/sponsors/
+- [Erlang Ecosystem Foundation](https://erlef.org/)
+    - https://erlef.org/sponsors
+- [DuckDB Foundation](https://duckdb.org/foundation/)
+    - https://duckdb.org/foundation/#supporters
 - [Loïc Hoguin](https://github.com/essen)
     - https://github.com/ninenines/ranch
     - https://github.com/ninenines/cowlib
