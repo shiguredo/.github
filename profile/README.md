@@ -28,13 +28,11 @@
 ## 時雨堂が継続的スポンサーになっている組織や開発者
 
 - [Let's Encrypt](https://letsencrypt.org/)
-    - https://letsencrypt.org/sponsors/
+  - https://github.com/certbot/certbot
 - [Erlang Ecosystem Foundation](https://erlef.org/)
-    - https://erlef.org/sponsors
     - https://github.com/erlang/otp
     - https://github.com/erlang/rebar3
 - [DuckDB Foundation](https://duckdb.org/foundation/)
-    - https://duckdb.org/foundation/#supporters
     - https://github.com/duckdb/duckdb
     - https://github.com/duckdb/duckdb-wasm
     - https://github.com/duckdb/duckdb-fts
