@@ -31,8 +31,14 @@
     - https://letsencrypt.org/sponsors/
 - [Erlang Ecosystem Foundation](https://erlef.org/)
     - https://erlef.org/sponsors
+    - https://github.com/erlang/otp
+    - https://github.com/erlang/rebar3
 - [DuckDB Foundation](https://duckdb.org/foundation/)
     - https://duckdb.org/foundation/#supporters
+    - https://github.com/duckdb/duckdb
+    - https://github.com/duckdb/duckdb-wasm
+    - https://github.com/duckdb/duckdb-fts
+    - https://github.com/duckdb/duckdb-vss
 - [Loïc Hoguin](https://github.com/essen)
     - https://github.com/ninenines/ranch
     - https://github.com/ninenines/cowlib
