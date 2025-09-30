@@ -49,5 +49,3 @@
     - https://github.com/uwiger/gproc
 - [Peter Saveliev](https://github.com/svinota)
     - https://github.com/svinota/pyroute2
-- [Erik Stenman](https://github.com/sponsors/HappiHacking)
-    - https://github.com/happi/theBeamBook
