@@ -42,9 +42,6 @@
     - https://github.com/ninenines/cowlib
     - https://github.com/ninenines/cowboy
     - https://github.com/ninenines/gun
-- [Petr Kobalicek](https://github.com/kobalicek)
-    - https://github.com/asmjit/asmjit
-    - https://github.com/blend2d/blend2d
 - [Ulf Wiger](https://github.com/uwiger)
     - https://github.com/uwiger/gproc
 - [Peter Saveliev](https://github.com/svinota)
