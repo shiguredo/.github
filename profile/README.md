@@ -48,3 +48,6 @@
     - https://github.com/uwiger/gproc
 - [Peter Saveliev](https://github.com/svinota)
     - https://github.com/svinota/pyroute2
+- [Tatsuhiro Tsujikawa](https://github.com/tatsuhiro-t)
+    - https://github.com/ngtcp2/nghttp3
+    - https://github.com/nghttp2/nghttp2
