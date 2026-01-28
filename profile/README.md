@@ -35,6 +35,7 @@
 - [DuckDB Foundation](https://duckdb.org/foundation/)
     - https://github.com/duckdb/duckdb
     - https://github.com/duckdb/duckdb-wasm
+    - https://github.com/duckdb/ducklake
     - https://github.com/duckdb/duckdb-fts
     - https://github.com/duckdb/duckdb-vss
     - https://github.com/duckdb/duckdb-python
