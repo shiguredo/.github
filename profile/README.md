@@ -36,8 +36,7 @@
     - https://github.com/duckdb/duckdb
     - https://github.com/duckdb/duckdb-wasm
     - https://github.com/duckdb/ducklake
-    - https://github.com/duckdb/duckdb-fts
-    - https://github.com/duckdb/duckdb-vss
+    - https://github.com/duckdb/duckdb-rs
     - https://github.com/duckdb/duckdb-python
     - https://github.com/duckdb/duckdb-go
 - [Loïc Hoguin](https://github.com/essen)
