@@ -11,7 +11,6 @@
 - ウェブサイト - https://shiguredo.jp/
 - コミュニティ - https://discord.gg/shiguredo
 - ブログ - https://blog.shiguredo.jp/
-- Open Collective - https://opencollective.com/shiguredo
 
 ## 公式ロゴ
 
