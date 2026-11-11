@@ -23,6 +23,8 @@
 
 - [WebRTC SFU Sora](https://sora.shiguredo.jp/)
 - [Sora Cloud](https://sora-cloud.shiguredo.jp/)
+- [Documentation Toolchain Mikan](https://mikan.shiguredo.jp/)
+- [shiguredo/tobi\-quic: Multipath QUIC library in Rust](https://github.com/shiguredo/tobi-quic)
 
 ## 時雨堂が継続的スポンサーになっている組織や開発者
 
@@ -37,5 +39,6 @@
     - https://github.com/svinota/pyroute2
 - [Tatsuhiro Tsujikawa](https://github.com/tatsuhiro-t)
     - https://github.com/ngtcp2/ngtcp2
+    - https://github.com/nghttp2/nghttp2-v2
     - https://github.com/ngtcp2/nghttp3
     - https://github.com/nghttp2/nghttp2
